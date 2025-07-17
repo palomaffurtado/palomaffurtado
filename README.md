@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6eaa5e&fontAlign=40&fontAlignY=42&section=header&reversal=false"/>
+
 <h1 align="center">Olá, sou Paloma Santos!</h1>
 
 ###
@@ -19,4 +21,4 @@
 ###
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6eaa5e&fontAlign=40&fontAlignY=42&section=footer&reversal=false"/>
